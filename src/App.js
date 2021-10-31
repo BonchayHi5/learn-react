@@ -1,4 +1,6 @@
 
+import { useState } from 'react';
+
 import './App.css';
 import './components/Note/Note.css';
 import './components/NoteList/NoteList.css';
